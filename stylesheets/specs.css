@@ -1,0 +1,57 @@
+#specs {
+    margin: 50px 0px;
+    height: 730px;
+}
+
+#specs .specs-left {
+    width: 60%;
+    float: left;
+}
+
+#specs .specs-left img {
+    max-width: 100%;
+}
+
+#specs .specs-left .specs-left-bottom {
+    margin-top: 50px;
+}
+
+#specs .specs-left .specs-left-bottom .left-img {
+    max-width: 46%;
+    float: left;
+}
+
+#specs .specs-left .specs-left-bottom .right-img {
+    max-width: 46%;
+    float: right;
+}
+
+#specs .specs-right {
+    background-color: black;
+    width: 31%;
+    float: right;
+    padding: 30px;
+    height: 723px;
+}
+
+#specs .specs-right h2 {
+    color: #0085B5;
+    text-transform: uppercase;
+    float: right;
+    font-size: 1em;
+}
+
+#specs .specs-right .key-specs {
+    margin-top: 40px;
+}
+
+#specs .specs-right h3 {
+    color: #ACACAC;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+#specs .specs-right p {
+    color: #757575;
+    margin: 15px 0px 30px 0px;
+}

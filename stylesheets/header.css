@@ -1,0 +1,39 @@
+body {
+    background-color: #111111;
+    font-family: 'Roboto Mono', monospace;
+}
+
+header {
+    background-color: black;
+    color: #fdfdfd;
+    padding: 30px 30px;
+    height: 50px;
+}
+
+#head-left {
+    font-size: 3em;
+    float: left;
+}
+
+#head-left .t-blue {
+    color: #0085B5;
+    display: inline;
+}
+
+#head-right {
+    float: right;
+    margin-top: 18px;
+}
+
+#head-right a {
+    color: #0085B5;
+    text-decoration: none;
+    border: 2px solid #0085B5;
+    border-radius: 25px;
+    padding: 10px 20px;
+}
+
+#head-right a:hover {
+    color: #70af13;
+    border: 2px solid #70af13;
+}

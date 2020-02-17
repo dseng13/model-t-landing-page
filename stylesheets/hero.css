@@ -1,0 +1,64 @@
+#hero {
+    background-color: black;
+    height: 550px;
+}
+
+#stats-section {
+    background-color: #090909;
+    height: 395px;
+    float: left;
+    margin-top: 75px;
+    position: relative;
+    left: -50px;
+}
+
+#stats-section .speed-row {
+    margin-top: 50px;
+}
+
+#stats-section .speed-row, #stats-section .weight-row, #stats-section .torque-row {
+    color: #0085B5;
+    margin-left: 10px;
+    margin-bottom: 40px;
+    height: 80px;
+}
+
+#stats-section .speed-row .fa-tachometer-alt, #stats-section .weight-row .fa-balance-scale, #stats-section .torque-row .fa-cogs  {
+    float: left;
+    width: 80px;
+    font-size: 32px;
+    margin-top: 8px;
+    margin-right: 10px;
+}
+
+#stats-section .stat-right {
+    float: right;
+    width: 160px;
+}
+
+#stats-section .stat-right h1 {
+    color: #0085B5;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+#stats-section .stat-right p {
+    color: #fdfdfd;
+}
+
+#img-section {
+    float: right;
+    width: 900px;
+    text-align: center;
+    margin-top: 125px;
+}
+
+#img-section .tagline {
+    color: white;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+#img-section .hero-img img {
+    width: 650px;
+}
